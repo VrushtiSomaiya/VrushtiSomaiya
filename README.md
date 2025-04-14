@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **vrushtisomaiya022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12eTzfD3ZaPO1ZkREj_Pnn67Y3_bJdkKi/view?usp=sharing](https://drive.google.com/file/d/12eTzfD3ZaPO1ZkREj_Pnn67Y3_bJdkKi/view?usp=sharing)
+//<h3> 📄 Know about my experiences [https://drive.google.com/file/d/12eTzfD3ZaPO1ZkREj_Pnn67Y3_bJdkKi/view?usp=sharing](https://drive.google.com/file/d/12eTzfD3ZaPO1ZkREj_Pnn67Y3_bJdkKi/view?usp=sharing)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
