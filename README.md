@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🏥 Currently an **AI Software Engineer at Minding Health** — building production healthcare AI, clinical analytics platforms, and digital mental health tools
 - 🧠 I work across the full stack: **Python · R · TypeScript · React · SQL · NLP · Computer Vision**
@@ -83,6 +83,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -97,6 +98,7 @@
 </p>
 
 ---
+-->
 
 ## 🎓 Education & Certifications
 
