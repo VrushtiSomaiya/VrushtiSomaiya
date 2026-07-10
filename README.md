@@ -32,7 +32,7 @@
 - 🏭 Led development of an **ERP platform supporting 18,000+ products** at Octoweb Infotech
 - 🧪 Built and maintained **Playwright + TypeScript automation frameworks for Intuit** integrated into CI/CD via GitHub Actions
 - 🎓 **B.E. in Computer Science** from Darshan University — 8.9 CGPA
-- 📄 Portfolio: [Link](https://vrushti.vercel.app/)
+- 🔗 Portfolio: [Link](https://vrushti.vercel.app/)
 
 ---
 
