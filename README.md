@@ -29,9 +29,9 @@
 - 🧠 I work across the full stack: **Python · R · TypeScript · React · SQL · NLP · Computer Vision**
 - 📊 Built a clinical analytics platform processing **2,700+ assessments** across **1,000+ patients** with **130+ interactive dashboards**
 - ⚡ Redesigned ETL pipelines to achieve a **30× performance improvement** that unblocked a clinical team's weekly review cycle
-- 🏭 Led development of an **ERP platform supporting 18,000+ products** at Octoweb Infotech
+- 🏭 Led development of an **ERP platform supporting 18,000+ products** 
 - 🧪 Built and maintained **Playwright + TypeScript automation frameworks for Intuit** integrated into CI/CD via GitHub Actions
-- 🎓 **B.E. in Computer Science** from Darshan University — 8.9 CGPA
+- 🎓 **B.E. in Computer Science** from DU — 8.9 CGPA
 - 🔗 Portfolio: [Link](https://vrushti.vercel.app/)
 
 ---
