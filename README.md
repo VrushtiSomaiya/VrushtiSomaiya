@@ -25,7 +25,7 @@
 
 ##  About Me
 
-- 🏥 Currently an **AI Software Engineer at Minding Health** — building production healthcare AI, clinical analytics platforms, and digital mental health tools
+- 🏥 Currently building production healthcare AI, clinical analytics platforms, and digital mental health tools
 - 🧠 I work across the full stack: **Python · R · TypeScript · React · SQL · NLP · Computer Vision**
 - 📊 Built a clinical analytics platform processing **2,700+ assessments** across **1,000+ patients** with **130+ interactive dashboards**
 - ⚡ Redesigned ETL pipelines to achieve a **30× performance improvement** that unblocked a clinical team's weekly review cycle
